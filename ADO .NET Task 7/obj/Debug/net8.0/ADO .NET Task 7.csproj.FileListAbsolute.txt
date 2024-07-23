@@ -1,0 +1,64 @@
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\ADO .NET Task 7.exe
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\ADO .NET Task 7.deps.json
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\ADO .NET Task 7.runtimeconfig.json
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\ADO .NET Task 7.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\ADO .NET Task 7.pdb
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\EFCore.CheckConstraints.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.csproj.AssemblyReference.cache
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.AssemblyInfoInputs.cache
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.AssemblyInfo.cs
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.csproj.CoreCompileInputs.cache
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET.B29316A2.Up2Date
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\refint\ADO .NET Task 7.dll
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.pdb
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ADO .NET Task 7.genruntimeconfig.cache
+C:\Users\fetul_jv25\source\repos\ADO .NET Task 7\ADO .NET Task 7\obj\Debug\net8.0\ref\ADO .NET Task 7.dll
