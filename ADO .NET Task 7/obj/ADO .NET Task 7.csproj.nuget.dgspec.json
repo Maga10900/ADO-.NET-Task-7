@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fetul_jv25\\source\\repos\\ADO .NET Task 7\\ADO .NET Task 7\\ADO .NET Task 7.csproj": {}
+    "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fetul_jv25\\source\\repos\\ADO .NET Task 7\\ADO .NET Task 7\\ADO .NET Task 7.csproj": {
+    "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fetul_jv25\\source\\repos\\ADO .NET Task 7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
         "projectName": "ADO .NET Task 7",
-        "projectPath": "C:\\Users\\fetul_jv25\\source\\repos\\ADO .NET Task 7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
-        "packagesPath": "C:\\Users\\fetul_jv25\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fetul_jv25\\source\\repos\\ADO .NET Task 7\\ADO .NET Task 7\\obj\\",
+        "projectPath": "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
+        "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fetul_jv25\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -75,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
