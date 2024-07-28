@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ADO_.NET_Task_7;
+
+AcademyContext academyContext = new ();

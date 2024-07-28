@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkinsAYrC0HvHwCywTPJyYzgOe2LZCNYtFwafrCCWmobF7RXV44lNyExSAUBJoL9S0kzgODodUPiyTw3kVlaEw==",
+  "dgSpecHash": "IXFZhunSS1YoojoB42pc240IFWwLgy9dBf4//FkHRLnhCUmhl6ajmVh9+5J8bZJ0zYlLHpuTEaVKcbZYmbRAkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammad\\Source\\Repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
+  "projectFilePath": "C:\\Users\\Muhammad\\source\\repos\\ADO-.NET-Task-7\\ADO .NET Task 7\\ADO .NET Task 7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Muhammad\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

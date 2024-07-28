@@ -13,7 +13,7 @@ public class Group
 
     public int TeacherId { get; set; }
 
-    public Teacher Teacher { get; set; }
+    public List<Teacher> Teachers { get; set; }
     public override string ToString()
     {
         return $"{GroupId}: {Name}";
